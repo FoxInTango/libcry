@@ -1,0 +1,2 @@
+# libcry
+C++ Crypto Library.
